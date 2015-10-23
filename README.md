@@ -21,3 +21,7 @@ Talks about everything that MIGHT interest people interested in Computer Science
 ## C++
 [CppCon 2014: Bjarne Stroustrup "Make Simple Tasks Simple!"](https://www.youtube.com/watch?v=nesCaocNjtQ) by **Bjarne Stroustrup**
 [Bjarne Stroustrup - The Essence of C++](https://www.youtube.com/watch?v=86xWVb4XIyE) by **Bjarne Stroustrup**
+
+## Git
+[Tech Talk: Linus Torvalds on git](https://www.youtube.com/watch?v=4XpnKHJAok8) by **Linus Torvalds** (One of the best talks i have ever seen)
+[Introduction to Git with Scott Chacon of GitHub](https://www.youtube.com/watch?v=ZDR433b0HJY) by **Scott Chaco** (basic)
