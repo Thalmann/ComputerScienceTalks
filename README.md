@@ -26,3 +26,4 @@ Talks about everything that MIGHT interest people interested in Computer Science
 ## Git
 * [Tech Talk: Linus Torvalds on git](https://www.youtube.com/watch?v=4XpnKHJAok8) by **Linus Torvalds** (One of the best talks i have ever seen)
 * [Introduction to Git with Scott Chacon of GitHub](https://www.youtube.com/watch?v=ZDR433b0HJY) by **Scott Chaco** (basic)
+* [Please. Stop Using Git.](https://www.youtube.com/watch?v=o4PFDKIc2fs) by **Matthew McCullough** (Funny)
