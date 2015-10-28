@@ -4,6 +4,7 @@ Talks about everything that MIGHT interest people interested in Computer Science
 ## General
 * [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ) by **Brian Fitzpatrick, Ben Collins-Sussman**
 * [The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU](https://www.youtube.com/watch?v=5MgBikgcWnY) by **Josh Kaufman** (I think it is a good talk and relevant because as a Computer Scientist you have to learn new things all the time)
+* [The mess we are in](https://www.youtube.com/watch?v=lKXe3HUG2l4) by **Joe Armstrong** (Funny and different)
 
 ## Emacs
 * [Evil Mode: Or, How I Learned to Stop Worrying and Love Emacs](https://www.youtube.com/watch?v=JWD1Fpdd4Pc) by **Aaron Bieber**
