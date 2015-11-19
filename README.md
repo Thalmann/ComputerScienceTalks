@@ -10,6 +10,7 @@ Talks about everything that MIGHT interest people interested in Computer Science
 * [Evil Mode: Or, How I Learned to Stop Worrying and Love Emacs](https://www.youtube.com/watch?v=JWD1Fpdd4Pc) [00:40:02] by **Aaron Bieber**
 * [Emacs For Writers](https://www.youtube.com/watch?v=FtieBc3KptU) [01:01:06] by **Jay Dixit** (Emacs from a non-technical POV - pretty funny at times)
 * [An Introduction to Emacs Lisp](https://www.youtube.com/watch?v=2z-YBsd5snY) [00:59:50] by **Harry R. Schwartz** (Very basic if you know some other Lisp language)
+* [Emacs + org-mode + python in reproducible research](https://www.youtube.com/watch?v=1-dUkyn_fZA) by **John Kitchin** (Org-mode for writing papers that integrate code and data)
 
 ### Emcas Org-mode
 * [Taking Notes In Emacs Org-Mode](https://www.youtube.com/watch?v=bzZ09dAbLEE) [00:18:05] by **ilearnthings.com** (I prefer installation via Emacs package manager('M-x package-list-packages'))
