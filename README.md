@@ -29,3 +29,6 @@ Talks about everything that MIGHT interest people interested in Computer Science
 * [Tech Talk: Linus Torvalds on git](https://www.youtube.com/watch?v=4XpnKHJAok8) [01:10:15] by **Linus Torvalds** (One of the best talks i have ever seen)
 * [Introduction to Git with Scott Chacon of GitHub](https://www.youtube.com/watch?v=ZDR433b0HJY) [01:22:12] by **Scott Chaco** (basic)
 * [Please. Stop Using Git.](https://www.youtube.com/watch?v=o4PFDKIc2fs) [00:05:26] by **Matthew McCullough** (Funny)
+
+## Hacking
+* [Black Hat 2013 - Exploiting Network Surveillance Cameras Like a Hollywood Hacker](https://www.youtube.com/watch?v=B8DjTcANBx0) [00:33:36] by **Craig Heffner**
