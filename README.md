@@ -20,6 +20,7 @@ Talks about everything that MIGHT interest people interested in Computer Science
 * [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go) [00:48:51] by **Raymond Hettinger** (Just awesome)
 * [Python 3 Metaprogramming](https://www.youtube.com/watch?v=sPiWg5jSoZI) [03:24:00] by **David Beazley**
 * [Raymond Hettinger - Beyond PEP 8 -- Best practices for beautiful intelligible code - PyCon 2015](https://www.youtube.com/watch?v=wf-BqAjZb8M) [00:52:05] by **Raymond Hettinger**
+* [Stop Writing Classes](https://www.youtube.com/watch?v=o9pEzgHorH0) [27:29] by **Jack Diederich**
 
 ## C++
 * [CppCon 2014: Bjarne Stroustrup "Make Simple Tasks Simple!"](https://www.youtube.com/watch?v=nesCaocNjtQ) [01:37:36] by **Bjarne Stroustrup**
