@@ -22,6 +22,7 @@ Talks about everything that MIGHT interest people interested in Computer Science
 * [Raymond Hettinger - Beyond PEP 8 -- Best practices for beautiful intelligible code - PyCon 2015](https://www.youtube.com/watch?v=wf-BqAjZb8M) [00:52:05] by **Raymond Hettinger**
 * [Stop Writing Classes](https://www.youtube.com/watch?v=o9pEzgHorH0) [27:29] by **Jack Diederich**
 * [Python's Class Development Toolkit](https://www.youtube.com/watch?v=HTLu2DFOdTg) [45:55] by **Raymond Hettinger**
+* [Python Design Patterns](https://www.youtube.com/watch?v=Er5K_nR5lDQ) ~[50:00] by **Brandon Rhodes**
 
 ## C++
 * [CppCon 2014: Bjarne Stroustrup "Make Simple Tasks Simple!"](https://www.youtube.com/watch?v=nesCaocNjtQ) [01:37:36] by **Bjarne Stroustrup**
